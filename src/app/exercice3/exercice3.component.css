@@ -1,0 +1,11 @@
+p {
+  display: inline-block;
+  margin-right: 1rem;
+}
+
+button {
+  padding: 1rem 0.5rem;
+  border: 0;
+  border-radius: 0.5rem;
+  font-weight: 700;
+}
